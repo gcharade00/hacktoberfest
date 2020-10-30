@@ -232,7 +232,7 @@
 
 ---
 
-- Name: Gokul Charade
+- Name: Ganesh Charade
 - Bio: Front End Developer
 - Link: [Github](https://github.com/gcharade00)
 
